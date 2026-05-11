@@ -1,4 +1,4 @@
-##Difference Between App, Object, Record and Field
+##Differences between App,Object,Record and Field
 
 Term	Definition	Real-Life Example
 App	Collection of related tools, tabs and objects	College Management App
