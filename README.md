@@ -14,13 +14,6 @@ Salesfore summer training 2026
     Automation, and AI-powered technologies.
   </p>
 
-  <p>
-    <img src="https://img.shields.io/badge/Platform-Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-    <img src="https://img.shields.io/badge/Language-Apex-1798c1?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Frontend-Lightning-blue?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
-  </p>
-
 </div>
 
 # Salesforce Summer Training Program
