@@ -1,7 +1,28 @@
 Salesfore summer training 2026
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" 
+    alt="Salesforce Banner"
+    width="220"
+  />
+
+  <h1>🚀 Salesforce Project</h1>
+
+  <p>
+    Building cloud-based solutions using Salesforce CRM, Apex, Lightning,
+    Automation, and AI-powered technologies.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Platform-Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+    <img src="https://img.shields.io/badge/Language-Apex-1798c1?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Frontend-Lightning-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+  </p>
+
 </div>
+
 # Salesforce Summer Training Program
 
 ## Overview
