@@ -45,26 +45,26 @@ The training focuses on how real Salesforce applications are designed: starting 
 ```text
 salesforce-training/
 |-- README.md
-|-- week-1/
+|-- week1/
 |   |-- README.md
-|   |-- day-1/
-|   |-- Day-2/
-|   |-- Day-3/
-|   |-- Day-4/
-|   |-- Day-5/
-|   |-- Day-6/
-|   `-- Day-7/
-|-- week-2/
+|   |-- day 1/
+|   |-- Day 2/
+|   |-- Day 3/
+|   |-- Day 4/
+|   |-- Day 5/
+|   |-- Day 6/
+|   `-- Day 7/
+|-- week2/
 |   |-- README.md
-|   |-- Day-1/
-|   |-- Day-2/
-|   |-- Day-3/
-|   |-- Day-4/
-|   |-- Day-5/
-|   |-- Day-6/
-|   `-- day-7/
-`-- week-3/
-    `-- Day-1/
+|   |-- Day 08/
+|   |-- Day 09/
+|   |-- Day 10/
+|   |-- Day 11/
+|   |-- Day 12/
+|   |-- Day 13/
+|   `-- day 14/
+`-- week3/
+    `-- Day 15/
 ```
 
 ## Weekly Highlights
